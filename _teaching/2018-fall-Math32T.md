@@ -1,10 +1,10 @@
 ---
-title: "Mathematics for Life Scientists"
+title: "Essential Calculus for Mathematical Biologists"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2018-winter-LS30A
-venue: "University of California, Los Angeles, Lift Science Dept."
-date: 2018-01-01
+permalink: /teaching/2018-fall-Math32T
+venue: "University of California, Los Angeles, Mathematics Dept."
+date: 2018-09-01
 location: "Los Angeles, California"
 ---
 
