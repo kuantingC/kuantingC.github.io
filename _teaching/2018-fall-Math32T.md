@@ -1,7 +1,7 @@
 ---
 title: "Essential Calculus for Mathematical Biologists"
 collection: teaching
-type: "Undergraduate course"
+type: "Teaching associate"
 permalink: /teaching/2018-fall-Math32T
 venue: "University of California, Los Angeles, Mathematics Dept."
 date: 2018-09-01

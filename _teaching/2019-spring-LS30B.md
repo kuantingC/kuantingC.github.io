@@ -1,7 +1,7 @@
 ---
 title: "Mathematics for Life Scientists"
 collection: teaching
-# type: "Undergraduate course"
+type: "Teaching associate"
 permalink: /teaching/2019-spring-LS30B
 venue: "University of California, Los Angeles, Lift Science Dept."
 date: 2019-04-01
