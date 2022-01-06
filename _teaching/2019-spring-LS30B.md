@@ -1,5 +1,5 @@
 ---
-title: "Mathematics for Life Scientists"
+title: "Mathematics for Life Scientists (LS30B)"
 collection: teaching
 type: "Teaching associate"
 permalink: /teaching/2019-spring-LS30B
@@ -8,8 +8,7 @@ date: 2019-04-01
 location: "Los Angeles, California"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
+LS30B will continue the dynamics focus of LS30A, while introducing the concept of matrices and linear transformations. The goals are to equip the student with some basic tools for understand the dynamics of multi-variable, non-linear systems. Examples will come from ecological, physiological, chemical and other systems.
 Heading 1
 ======
 
