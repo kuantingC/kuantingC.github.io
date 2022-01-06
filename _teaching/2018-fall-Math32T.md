@@ -12,9 +12,3 @@ Lecture, three hours; discussion, one hour. Requisites: Life Sciences 30A, 30B. 
 
 Heading 1
 ======
-
-Heading 2
-======
-
-Heading 3
-======
