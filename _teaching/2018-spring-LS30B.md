@@ -3,7 +3,7 @@ title: "Mathematics for Life Scientists (LS30B)"
 collection: teaching
 type: "Teaching associate"
 permalink: /teaching/2018-spring-LS30B
-venue: "University of California, Los Angeles, Lift Science Dept."
+venue: "University of California, Los Angeles, Life Science Dept."
 date: 2018-04-01
 location: "Los Angeles, California"
 ---
